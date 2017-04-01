@@ -6,5 +6,6 @@
 * [Structuring TF Models](http://danijar.com/structuring-your-tensorflow-models/)
 
 ###RNN
+* [The Unreasonable Effectinves of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Tensorflow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 
