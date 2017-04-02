@@ -9,7 +9,8 @@
 * [The Unreasonable Effectinves of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Tensorflow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 * [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [Simple Implementation of LSTM](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
+* [Simple Implementation of LSTM](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/d)
 
 ###CNN
 * [Understanding Covnets for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+* [Implementing a CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
