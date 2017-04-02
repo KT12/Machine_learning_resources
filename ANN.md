@@ -14,3 +14,4 @@
 ###CNN
 * [Understanding Covnets for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Implementing a CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [Nifty Convnet Illustration](https://github.com/vdumoulin/conv_arithmetic)
