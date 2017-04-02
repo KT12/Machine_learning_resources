@@ -12,6 +12,6 @@
 * [Simple Implementation of LSTM](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/d)
 
 ###CNN
-* [Understanding Covnets for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+* [Understanding Convnets for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Implementing a CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Nifty Convnet Illustration](https://github.com/vdumoulin/conv_arithmetic)
