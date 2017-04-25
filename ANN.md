@@ -1,6 +1,7 @@
 # Artificial Neural Networks
 
 ### Tensorflow
+* [Tensorflow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 * [My notes to building Tensorflow from source to support GPU/CUDA](https://github.com/KT12/training/blob/master/TensorFlow/notes_on_installing_tf_gpu.md)
 * [Intro to TF video](https://www.youtube.com/watch?v=vQtxTZ9OA2M)
 * [Neural Networks Demystified YT Playlist](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
