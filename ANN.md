@@ -23,3 +23,6 @@
 
 ### Generative Adversarial Networks
 * [Phylogeny of GANs](https://deephunt.in/the-gan-zoo-79597dc8c347)
+
+### Batch Normalization
+* [Batch Norm and Covariate Shift](https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b)
