@@ -20,6 +20,7 @@
 * [Understanding Convnets for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Implementing a CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Nifty Convnet Illustration](https://github.com/vdumoulin/conv_arithmetic)
+* [Convolutional Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285v1.pdf)
 
 ### Generative Adversarial Networks
 * [Phylogeny of GANs](https://deephunt.in/the-gan-zoo-79597dc8c347)
