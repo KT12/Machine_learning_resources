@@ -13,6 +13,7 @@
 ### Recurrent Neural Networks
 * [The Unreasonable Effectinves of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Tensorflow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
+* [Original LSTM Paper by Hochreiter and Schmidhuber](http://www.bioinf.jku.at/publications/older/2604.pdf)
 * [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Simple Implementation of LSTM](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/d)
 
