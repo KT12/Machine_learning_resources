@@ -11,3 +11,4 @@
 * What is the Box-Cox transformation used for?
 used to stabilize the variance (eliminate heteroskedasticity) and also to normalize a distribution
  How does it work?
+ * Fill missing data in [this data set](https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values/data)
