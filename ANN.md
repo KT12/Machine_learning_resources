@@ -17,7 +17,7 @@
 * [Understanding LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Simple Implementation of LSTM](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/d)
 
-### Convolutoinal Neural Networks
+### Convolutional Neural Networks
 * [Understanding Convnets for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Implementing a CNN for Text Classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Nifty Convnet Illustration](https://github.com/vdumoulin/conv_arithmetic)
@@ -29,3 +29,6 @@
 
 ### Batch Normalization
 * [Batch Norm and Covariate Shift](https://gab41.lab41.org/batch-normalization-what-the-hey-d480039a9e3b)
+
+### Autoencoders
+* [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
